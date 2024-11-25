@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@turbowarp/types": "npm:@turbowarp/types@^0.0.12",
+    "scratch-render": "npm:scratch-render@^1.2.125"
+  },
+  "nodeModulesDir": "auto"
+}
